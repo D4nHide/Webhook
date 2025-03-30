@@ -1,6 +1,17 @@
 # Descripción
 Configurar webhook en jenkins para que realice un build automático si se detecta cambio en el repositorio, exponiendo Url con ngrok usando una api en NodeJs.
 
+
+
+
+<p align="center">
+  <img src="https://github.com/D4nHide/Webhook/blob/main/pipeline_webhook.jpg"/>
+</p>
+
+
+
+
+
 # Configuración Jenkins
 
 - Crear un nuevo pipeline, una vez en configuración seguir los siguientes pasos:
